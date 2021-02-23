@@ -3,7 +3,7 @@
 ## 学习笔记
 ### 技术栈归纳
 * 音视频的基础知识
-  * FFMpeg视频播放基础 [【视频】](https://www.bilibili.com/video/BV1gE411f7WT) [讲义资料]()
+  * FFMpeg视频播放基础 [【视频】](https://www.bilibili.com/video/BV1gE411f7WT) [讲义](http://note.youdao.com/noteshare?id=533a7e3fe37864b46941c7dc0690e998[) [资料]()
 * C++语言特性学习
   * 
 * Qt开发
