@@ -10,6 +10,7 @@
   * C++核心编程【[讲义](http://note.youdao.com/noteshare?id=1fbe0b217445223673be2a3a081a01dc&sub=11F7AC30C5B84DA8931A25D25AFFE33D)】
 * Qt开发
   * 黑马Qt教程 【[视频](https://www.bilibili.com/video/BV1XW411x7NU)】【[讲义](http://note.youdao.com/noteshare?id=e233a11db9b14056d0c4d063d5e24561&sub=39BB07FB967D46E997739F43AA0940C6)】
+  * 测试
 ### 参考博客
 
 ## 常见问题
